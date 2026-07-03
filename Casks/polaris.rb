@@ -2,7 +2,8 @@ cask "polaris" do
   version "0.14.0"
   sha256 "cc1e2d123edec2dba7bb8e812b14eb19c41bcb710416def13952e6e885f8a784"
 
-  url "https://github.com/JangoCG/polaris-releases/releases/download/v#{version}/polaris.dmg"
+  url "https://github.com/JangoCG/polaris-releases/releases/download/v#{version}/polaris.dmg",
+      verified: "github.com/JangoCG/polaris-releases/"
   name "Polaris"
   desc "Native macOS GUI for Kamal deployments"
   homepage "https://polaris-deploy.com"
