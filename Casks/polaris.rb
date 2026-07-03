@@ -5,8 +5,8 @@ cask "polaris" do
   url "https://github.com/JangoCG/polaris-releases/releases/download/v#{version}/polaris.dmg",
       verified: "github.com/JangoCG/polaris-releases/"
   name "Polaris"
-  desc "Native macOS GUI for Kamal deployments"
-  homepage "https://polaris-deploy.com"
+  desc "Native GUI for Kamal deployments"
+  homepage "https://polaris-deploy.com/"
 
   livecheck do
     url :url
