@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JangoCG/nummion/releases/download/v0.1.0/nummion_0.1.0_windows_amd64.zip",
+            "bin": [
+                "num.exe"
+            ],
+            "hash": "9260373b02a23a8f0c58883585f64ac4084b568cad37d860a9d89e6044f9ea20"
+        },
+        "arm64": {
+            "url": "https://github.com/JangoCG/nummion/releases/download/v0.1.0/nummion_0.1.0_windows_arm64.zip",
+            "bin": [
+                "num.exe"
+            ],
+            "hash": "8f29b646bfde6c4d27c728f75d98e0106c8820252b583b640b3694faa24350d4"
+        }
+    },
+    "homepage": "https://github.com/JangoCG/nummion",
+    "license": "MIT",
+    "description": "Unofficial Lexware Office CLI — run it with num"
+}
