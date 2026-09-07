@@ -1,6 +1,6 @@
 cask "polaris" do
-  version "0.15.4"
-  sha256 "ebcc2211f79fe14f9a30260422866663258b640376f6958533f1cb939e56c710"
+  version "0.15.5"
+  sha256 "ce43fd576fb83a1324fe409586f442fe982a3396db0a478c78f7ef7300547b4a"
 
   url "https://github.com/JangoCG/polaris-releases/releases/download/v#{version}/polaris.dmg",
       verified: "github.com/JangoCG/polaris-releases/"
